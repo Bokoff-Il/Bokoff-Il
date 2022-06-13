@@ -11,7 +11,7 @@ QA and some Automation!
 
 **Contacts**
 
-Email: bokoff.il@gamil.com
+Email: bokoff.il@gmail.com
 
 Telegram: @bokoffil
 

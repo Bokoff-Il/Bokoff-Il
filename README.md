@@ -39,5 +39,3 @@
 
 :heavy_check_mark: <a target="_blank" href="https://t.me/bokoffil">Telegram</a>|
 <a target="_blank" href="https://www.linkedin.com/in/ilya-bokov-908098242/">Linkedin</a>
-
-LinkedIn: https://www.linkedin.com/in/ilya-bokov-908098242/

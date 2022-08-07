@@ -3,6 +3,7 @@
 Меня зовут Илья, я занимаюсь автоматизацией тестирования
 
 ## :computer: Технологии и инструменты
+
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="images/logo/Java.svg">
@@ -26,14 +27,16 @@
 
 ## :open_book: Обучение
 
-Прошел обучение в школе автоматизации тестирования :link: <a target="_blank" href="https://qa.guru/">QA.GURU</a></br></br>
+Прошел обучение в школе автоматизации тестирования :link: <a target="_blank" href="https://qa.guru/">
+QA.GURU</a></br></br>
 <img title="QA.GURU" src="images/certification/qaguru.jpg">
-
 
 ## :pencil2: Мои проекты
 
-:link: Проект автоматизации UI+API: <a target="_blank" href="https://github.com/Bokoff-Il/qa-guru-hw13">UI+API</a></br></br>
-:link: Проект автоматизации Mobile: <a target="_blank" href="https://github.com/Bokoff-Il/qa-guru-hw-22">Mobile</a></br></br>
+:link: Проект автоматизации UI+API: <a target="_blank" href="https://github.com/Bokoff-Il/PuzzleEnglishTests">
+PuzzleEnglishTests(UI+API)</a></br></br>
+:link: Проект автоматизации Mobile: <a target="_blank" href="https://github.com/Bokoff-Il/WikipediaTests">
+WikipediaTests(Mobile)</a></br></br>
 
 ## :phone: Контакты
 

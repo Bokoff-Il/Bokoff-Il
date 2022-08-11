@@ -29,7 +29,7 @@
 
 Прошел обучение в школе автоматизации тестирования :link: <a target="_blank" href="https://qa.guru/">
 QA.GURU</a></br></br>
-<img title="QA.GURU" src="images/certification/qaguru.jpg">
+<img title="QA.GURU" src="images/certification/qaguru.png">
 
 ## :pencil2: Мои проекты
 
